@@ -1,2 +1,2 @@
 name = input("Enther name")
-print(name)
+print("hello",name)
